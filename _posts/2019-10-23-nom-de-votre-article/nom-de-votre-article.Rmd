@@ -1,0 +1,22 @@
+---
+title: "Identification of key genes and mi RNAs markers of papillary thyroid cancer"
+description: |
+  Thyroid cancer is the most common endocrine neoplasm, accounting for approximately 1.7% of all human malignancies. Thyroid cancer is usually classified into four types : papillary thyroid cancer (PTC), anaplastic thyroid cancer, follicular thyroid cancer, and medullary thyroid cancer. Amoung the four types, PTC is the most common, accounting for 75-85% of all thyroid cancer cases. PTC is usually curable and has a 5 year survival rate of over 95%. However, PTC occasionally dedifferentiates into more aggressive and lethal thyroid cancers. Additionally, recurrences are observed in approcimately 30% of patients with PTC. Therefore, further analyses of the molecular characteristics of disease are necessary.
+author:
+  - name: Aysenur Güldal
+    url: {}
+date: 10-23-2019
+output:
+  distill::distill_article:
+    self_contained: false
+  preview: image/where-s-my-elephant.jpg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

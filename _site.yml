@@ -14,5 +14,7 @@ navbar:
 base_url: https://aysenurguldal.github.io/aysenur-guldal-blog/
 collections:
     posts:
+      disqus: aysenur-guldal-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
+
