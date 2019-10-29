@@ -1,13 +1,10 @@
 
 ---
-title: "Identification of key genes and mi RNAs markers of papillary thyroid cancer"
+title: 
 ---
 This section also must include: 
 
 - Guldal Aysenur, Devilez Nicolas, Passerelle - 2019-2020
 
 
-Jie Qiu, Wenwei Zhang, Chuanshan Zang, Xiaomin Liu, Fuxue Liu, Ruifeng Ge, Yan Sun & Qingsheng Xia 
 
-
-**BACKGROUND** : Thyroid cancer is the most common endocrine neoplasm, accounting for approximately 1.7% of all human malignancies [1]. Thyroid cancer is usually classified into four types: papillary thyroid cancer (PTC), anaplastic thyroid cancer, follicular thyroid cancer, and medullary thyroid cancer [2]. Among the four types, PTC is the most common, accounting for 75–85% of all thyroid cancer cases [3]. PTC is usually curable and has a 5-year survival rate of over 95% [4]. However, PTC occasionally dedifferentiates into more aggressive and lethal thyroid cancers. Additionally, recurrences are observed in approximately 30% of patients with PTC. Therefore, further analyses of the molecular characteristics of this disease are necessary [5]
