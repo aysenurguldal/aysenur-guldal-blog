@@ -1,7 +1,7 @@
 [
   {
-    "path": "posts/2019-10-23-nom-de-votre-article/",
-    "title": "Interactions of exercise training and high-fat diet on adiponectin forms and muscle receptors in mice.",
+    "path": "posts/2019-11-02-adiponectin/",
+    "title": "Interactions of exercise training and high-fat diet on adiponectin forms and muscle receptors in mice",
     "description": {},
     "author": [
       {
@@ -9,27 +9,9 @@
         "url": {}
       }
     ],
-    "date": "2019-10-23",
+    "date": "2019-11-02",
     "categories": [],
-    "preview": {},
-    "last_modified": "2019-10-30T00:53:03+01:00"
-  },
-  {
-    "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
-    "description": {},
-    "author": [
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      }
-    ],
-    "date": "2019-09-18",
-    "categories": [
-      "elephant",
-      "track"
-    ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-02T10:39:39+02:00"
+    "preview": "posts/2019-11-02-adiponectin/images/PBB_Protein_ADIPOQ_image.jpg",
+    "last_modified": "2019-11-02T16:22:47+01:00"
   }
 ]

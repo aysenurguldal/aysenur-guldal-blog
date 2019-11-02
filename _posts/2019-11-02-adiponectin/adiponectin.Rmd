@@ -1,15 +1,13 @@
 ---
-title: "Interactions of exercise training and high-fat diet on adiponectin forms and muscle receptors in mice."
-description: |
-  
+title: "Interactions of exercise training and high-fat diet on adiponectin forms and muscle receptors in mice"
 author:
-  - name: Aysenur Güldal
-    url: {}
-date: 10-23-2019
+  - name: "Aysenur Güldal"
+date: 11-02-2019
 output:
   distill::distill_article:
     self_contained: false
-  preview: image/where-s-my-elephant.jpg
+preview: "images/PBB_Protein_ADIPOQ_image.jpg"
+draft: false
 ---
 
 ```{r setup, include=FALSE}
@@ -17,14 +15,20 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-BACKGROUND:
+![](images/PBB_Protein_ADIPOQ_image.jpg)
+
+# Background:
+
 Metabolic syndrome (MetS) is characterized by systemic disturbances that increase cardiovascular risk. Adiponectin (Ad) exhibits a cardioprotective function because of its anti-inflammatory and anti-atherosclerotic properties. In the bloodstream, this adipocytokine circulates on multimers (Admer), among which high molecular weight (HMW) are the most active forms. Because alterations of Ad plasmatic levels, Admer distribution and receptor (AdipoR) expression have been described in murine models and obese patients, strategies that aim to enhance Ad production or its effect on target tissues are the subject of intense investigations. While exercise training is well known to be beneficial for reducing cardiovascular risk, the contribution of Ad is still controversial. Our aim was to evaluate the effect of exercise training on Ad production, Admer distribution and AdipoR muscle expression in a murine model of MetS.
 
-METHODS:
+# Methods:
+
 At 6 weeks of age, mice were submitted to a standard (SF) or high-fat high-sugar (HF) diet for 10 weeks. After 2 weeks, the SF- and HF-fed animals were randomly assigned to a training program (SFT, HFT) or not (SFC, HFC). The trained groups were submitted to sessions of running on a treadmill 5 days a week.
 
-RESULTS AND CONCLUSIONS:
+# Results and conclusions: 
+
 The HF mice presented the key problems associated with MetS (increased caloric intake, body weight, glycemia and fat mass), a change in Admer distribution in favor of the less-active forms and increased AdipoR2 expression in muscle. In contrast, exercise training reversed some of the adverse effects of a HF diet (increased glucose tolerance, better caloric intake control) without any modifications in Ad production and Admer distribution. However, increased AdipoR1 muscle expression was observed in trained mice, but this effect was hampered by HF diet. These data corroborate a recent hypothesis suggesting a functional divergence between AdipoR1 and AdipoR2, with AdipoR1 having the predominant protective action on metabolic function.
+
 
 
 
