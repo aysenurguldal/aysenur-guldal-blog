@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://aysenurguldal.github.io/aysenur-guldal-blog/about.html</loc>
-    <lastmod>2019-10-30T00:58:03+01:00</lastmod>
+    <lastmod>2019-11-03T15:20:00+01:00</lastmod>
   </url>
   <url>
     <loc>https://aysenurguldal.github.io/aysenur-guldal-blog/english-activity.html</loc>
@@ -10,14 +10,14 @@
   </url>
   <url>
     <loc>https://aysenurguldal.github.io/aysenur-guldal-blog/</loc>
-    <lastmod>2019-10-30T00:30:14+01:00</lastmod>
+    <lastmod>2019-11-03T15:20:00+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://aysenurguldal.github.io/aysenur-guldal-blog/posts/2019-11-02-adiponectin/</loc>
+    <lastmod>2019-11-03T15:25:53+01:00</lastmod>
   </url>
   <url>
     <loc>https://aysenurguldal.github.io/aysenur-guldal-blog/posts/2019-10-23-nom-de-votre-article/</loc>
-    <lastmod>2019-10-31T16:24:33+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://aysenurguldal.github.io/aysenur-guldal-blog/posts/2019-09-18-article-1/</loc>
-    <lastmod>2019-10-31T17:27:07+01:00</lastmod>
+    <lastmod>2019-10-31T17:16:40+01:00</lastmod>
   </url>
 </urlset>
