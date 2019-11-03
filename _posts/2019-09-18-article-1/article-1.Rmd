@@ -1,12 +1,9 @@
 ---
 title: "Interactions of exercise training and high-fat diet on adiponectine forms and muscle receptors in mice"
-description: "hshdh"
-author: 
-  - name: "Aysenur GULDAL"
+author:
+  - name: Aysenur Güldal
+    url: {}
 date: 09-18-2019
-categories:
-  - adiponectine
-preview: downloads/adiponectine.png
 output:
   distill::distill_article:
     self_contained: false

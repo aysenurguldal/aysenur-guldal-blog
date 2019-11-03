@@ -1,15 +1,11 @@
 ---
-title: "Interactions of exercise training and high-fat diet on adiponectin forms and
-  muscle receptors in mice."
-author:
-- name: Aysenur Güldal
-  url: {}
-date: "10-23-2019"
+title: "Interactions of exercise training and high-fat diet on adiponectin forms and muscle receptors in mice."
+author: 
+  - name: "Aysenur GULDAL"
+date: 10-23-2019
 output:
-  preview: default
   distill::distill_article:
-    self_contained: no
-description: null
+    self_contained: false
 ---
 
 ```{r setup, include=FALSE}
