@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Background:
 
-Metabolic syndrome (MetS) is characterized by systemic disturbances that increase cardiovascular risk. Adiponectin (Ad) exhibits a cardioprotective function because of its anti-inflammatory and anti-atherosclerotic properties. In the bloodstream, this adipocytokine circulates on multimers (Admer), among which high molecular weight (HMW) are the most active forms. Because alterations of Ad plasmatic levels, Admer distribution and receptor (AdipoR) expression have been described in murine models and obese patients, strategies that aim to enhance Ad production or its effect on target tissues are the subject of intense investigations. While exercise training is well known to be beneficial for reducing cardiovascular risk, the contribution of Ad is still controversial. Our aim was to evaluate the effect of exercise training on Ad production, Admer distribution and AdipoR muscle expression in a murine model of MetS.
+Metabolic syndrome (MetS) is characterized by systemic disturbances that increase cardiovascular risk. Adiponectin (Ad) exhibits a cardioprotective function because of its anti-inflammatory and anti-atherosclerotic properties. In the bloodstream, this adipocytokine circulates on multimers (Admer), among which high molecular weight (HMW) are the most active forms. Because alterations of Ad plasmatic levels, Admer distribution and receptor (AdipoR) expression have been described in murine models and obese patients, strategies that aim to enhance Ad production or its effect on target tissues are the subject of intense investigations. While exercise training is well known to be beneficial for reducing cardiovascular risk, the contribution of Ad is still controversial. 
 
 # Methods:
 
