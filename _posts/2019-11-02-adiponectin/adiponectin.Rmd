@@ -39,9 +39,11 @@ The HF mice presented the key problems associated with MetS (increased caloric i
 
 # Analysis table
 
-| Researchers   | Pierard M, Conotte S, Tassin A, Boutry S, Uzureau P, Boudjeltia KZ, Legrand A |
-| ------------- | ----------------------------------------------------------------------------- |
-| Published in? | November 3, 2016                                                              |
-| Keywords      | Animal model; Differential regulation; Metabolic syndrome; Multimer; Obesity  |
-|               |                                                                               |
+| Researchers                  | Pierard M, Conotte S, Tassin A, Boutry S, Uzureau P, Boudjeltia KZ, Legrand A |
+| ---------------------------- | ----------------------------------------------------------------------------- |
+| Published in?                | November 3, 2016                                                              |
+| General topic                |                                                                               |
+| Procedure/ what was examined |                                                                               |
+| Conclusions/discovery        |                                                                               |
+| Remaining questions?         |                                                                               |
 
