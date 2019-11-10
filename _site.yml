@@ -1,12 +1,11 @@
 name: ""
-title: "Aysenur's blog"
+title: "Aysenur's Blog"
 output_dir: "docs"
 navbar:
+  logo: 
   right:
     - text: "Home"
       href: index.html
-    - text: "Miscellaneous"
-      href: english-activity.html
     - text: "About"
       href: about.html
     - icon: fab fa-github
@@ -16,5 +15,7 @@ collections:
     posts:
       disqus: "aysenur-guldal-blog"
       share: [twitter, linkedin, facebook]
-output: distill::distill_article
+output:
+  distill::distill_article:
+    css: styles.css
 
