@@ -1,0 +1,44 @@
+---
+title: "The value of non-invasive prenatal testing for the identification of fetal chromosome aneuploidies"
+description: "To assess the value of non-invasive prenatal testing (NIPT) for the identification of fetal chromosomal aneuploidies."
+author:
+  - name: "Aysenur Güldal"
+date: 11-10-2019
+output:
+  distill::distill_article:
+    self_contained: false
+preview: "images/chromosome-Aneuploidy.jpg"
+draft: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](images/chromosome-Aneuploidy.jpg)
+
+
+# Methods:
+For 9470 pregnant women with a moderate-to-high risk by conventional serological screening or advanced maternal age, peripheral venous blood samples were collected and, following extraction of free fetal DNA, subjected to large-scale parallel sequencing on a Illumina Hiseq2000 platform. Those with a high risk by NIPT were validated by invasive prenatal diagnosis.
+
+# Results:
+Out of the 9470 samples, 194 cases (2.0%) were positive by NIPT testing. These included 50 trisomy 21, 11 trisomy 18, 17 trisomy 13, 44 other autosomal aneuploidies, 55 sex chromosomal aneuploidies, and 17 chromosomal copy number variations. As validated by amniotic fluid or umbilical blood chromosomal karyotyping analysis, NIPT has a false positive rate of 2.0%, 18.2%, 41.2%, 97.7%, 81.8%, 94.1%, respectively. The test has a sensitivity of 100% and a specificity of 98.79%.
+
+# Conclusion:
+For common chromosomal aneuploidies such as trisomy 21 and trisomy 18, NIPT has a good sensitivity and specificity, therefore has good value for clinical application.
+
+# Vocabulary 
+
+| Words from the text | Synonym in English |
+| ------------------- | ------------------ |
+| assess              | evaluate           |
+
+# Analysis table
+
+| Researchers                  | Zhou Y, Wang Z, Mao Q, Shi D, Zhang L, Xu L, Li H.                                                                    |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Published in?                | 2019 November 10                                                                                                      |
+| General topic                | A team of Chinese researchers has developed a method for the identification of chromosomal aneuploidies in the fetus. |
+| Procedure/ what was examined | To assess the value of non-invasive prenatal testing (NIPT) for the identification of fetal chromosomal aneuploidies. |
+| Conclusions/discovery        | For chromosomal aneuploidies such as trisomy 21 and trisomy 18, NIPT has a good sensitivity and specificity.          |
+| Remaining questions?         |                                                                                                                       |

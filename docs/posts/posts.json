@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-11-10-nipt/",
+    "title": "The value of non-invasive prenatal testing for the identification of fetal chromosome aneuploidies",
+    "description": "To assess the value of non-invasive prenatal testing (NIPT) for the identification of fetal chromosomal aneuploidies.",
+    "author": [
+      {
+        "name": "Aysenur Güldal",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-10",
+    "categories": [],
+    "preview": "posts/2019-11-10-nipt/images/chromosome-Aneuploidy.jpg",
+    "last_modified": "2019-11-10T18:08:14+01:00"
+  },
+  {
     "path": "posts/2019-11-02-adiponectin/",
     "title": "Interactions of exercise training and high-fat diet on adiponectin forms and muscle receptors in mice",
     "description": {},
