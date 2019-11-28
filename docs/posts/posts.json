@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/2019-11-10-nipt/",
-    "title": "The value of non-invasive prenatal testing for the identification of fetal chromosome aneuploidies",
-    "description": "To assess the value of non-invasive prenatal testing (NIPT) for the identification of fetal chromosomal aneuploidies.",
+    "title": "The value of non-invasive prenatal testing (NIPT) for the identification of fetal chromosome aneuploidies",
+    "description": "To assess the value of non-invasive prenatal testing (NIPT) for the identification of chromosomal aneuploidies in fetus.",
     "author": [
       {
         "name": "Aysenur Güldal",
@@ -12,7 +12,7 @@
     "date": "2019-11-10",
     "categories": [],
     "preview": "posts/2019-11-10-nipt/images/chromosome-Aneuploidy.jpg",
-    "last_modified": "2019-11-10T18:08:14+01:00"
+    "last_modified": "2019-11-28T15:34:59+01:00"
   },
   {
     "path": "posts/2019-11-02-adiponectin/",

@@ -1,6 +1,6 @@
 ---
-title: "The value of non-invasive prenatal testing for the identification of fetal chromosome aneuploidies"
-description: "To assess the value of non-invasive prenatal testing (NIPT) for the identification of fetal chromosomal aneuploidies."
+title: "The value of non-invasive prenatal testing (NIPT) for the identification of fetal chromosome aneuploidies"
+description: "To assess the value of non-invasive prenatal testing (NIPT) for the identification of chromosomal aneuploidies in fetus."
 author:
   - name: "Aysenur Güldal"
 date: 11-10-2019
@@ -19,13 +19,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 # Methods:
-For 9470 pregnant women with a moderate-to-high risk by conventional serological screening or advanced maternal age, peripheral venous blood samples were collected and, following extraction of free fetal DNA, subjected to large-scale parallel sequencing on a Illumina Hiseq2000 platform. Those with a high risk by NIPT were validated by invasive prenatal diagnosis.
+Venous blood samples were collected from 9470 pregnant women with a moderate-to-high risk by conventional serological screening or advanced maternal age The extraction of free fetal DNA was performed on the Illumina Hiseq2000 large scale platform. Those with a high risk by NIPT were validated by invasive prenatal diagnosis.
 
 # Results:
-Out of the 9470 samples, 194 cases (2.0%) were positive by NIPT testing. These included 50 trisomy 21, 11 trisomy 18, 17 trisomy 13, 44 other autosomal aneuploidies, 55 sex chromosomal aneuploidies, and 17 chromosomal copy number variations. As validated by amniotic fluid or umbilical blood chromosomal karyotyping analysis, NIPT has a false positive rate of 2.0%, 18.2%, 41.2%, 97.7%, 81.8%, 94.1%, respectively. The test has a sensitivity of 100% and a specificity of 98.79%.
+Out of the 9470 samples of pregnant women, 194 cases (2.0%) were positive by NIPT testing. These included 50 trisomy 21, 11 trisomy 18, 17 trisomy 13, 44 other autosomal aneuploidies, 55 sex chromosomal aneuploidies, and 17 chromosomal copy number variations. As validated by amniotic fluid or umbilical blood chromosomal karyotyping analysis, NIPT has a false positive rate of 2.0%, 18.2%, 41.2%, 97.7%, 81.8%, 94.1%, respectively. The NIPT test has a sensitivity of 100% and a specificity of 98.79%.
 
 # Conclusion:
-For common chromosomal aneuploidies such as trisomy 21 and trisomy 18, NIPT has a good sensitivity and specificity, therefore has good value for clinical application.
+For common chromosomal aneuploidies such as trisomy 21, trisomy 18 and trisomy 13 (infrequent), NIPT has a good sensitivity and specificity, therefore has good value for clinical application.
 
 # Vocabulary 
 
